@@ -66,5 +66,41 @@ Check out the **LinkedIn post** for a demo video:
 ## 🚀 Getting Started
 
 1. Clone the repository:
-```bash
 git clone https://github.com/mostafatahoon/MetroCairo.git
+2. Open in Android Studio  
+3. Run the project on an emulator or real device  
+
+---
+
+## 🎯 What I Learned
+
+- Applying **Clean Architecture** in a real project  
+- Building UI using **Jetpack Compose**  
+- Managing **UI state with ViewModel**  
+- Structuring **scalable Android applications**  
+- Solving **real-world navigation problems**  
+
+---
+
+## 📌 Future Improvements
+
+- Add real-time data (API integration)  
+- Improve UI/UX animations  
+- Add offline caching & database  
+- Support multiple languages  
+
+---
+
+## 🤝 Contributing
+
+Feel free to fork this project or open issues for suggestions and improvements.
+
+---
+
+## 📬 Contact
+Feel free to fork this project or open issues for suggestions and improvements.
+📧 Email: **mostafa.tahoon66@gmail.com**  
+🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/mostafa-tahoon66)
+---
+
+⭐ If you like this project, consider giving it a star!
