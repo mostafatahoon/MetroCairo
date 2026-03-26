@@ -98,9 +98,10 @@ Feel free to fork this project or open issues for suggestions and improvements.
 ---
 
 ## 📬 Contact
-If you'd like to connect or discuss Android development, feel free to reach out!
-📧 Email: **mostafa.tahoon66@gmail.com**  
-🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/mostafa-tahoon66)
+
+Feel free to reach out:  
+Email: mostafa.tahoon66@gmail.com  
+LinkedIn: [Connect with me](https://www.linkedin.com/in/mostafa-tahoon66)
 ---
 
 ⭐ If you like this project, consider giving it a star!
