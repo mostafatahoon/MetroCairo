@@ -49,8 +49,8 @@ This project follows **Clean Architecture** with separation of concerns:
 ## 📸 Screenshots
 
 <p align="center">
+  <img src="screenshots/splash.png" width="250"/> 
   <img src="screenshots/home.png" width="250"/> 
-  <img src="screenshots/result.png" width="250"/> 
   <img src="screenshots/route.png" width="250"/>
 </p>
 
